@@ -1,5 +1,5 @@
 applications:
 - buildpack: https://github.com/atlassian/buildpack-null.git
-  name: standalone
+  name: null
   path: .
   urls: []
