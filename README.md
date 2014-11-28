@@ -1,7 +1,7 @@
 null
 ====
 
-A minimal standalone app for Stackato for exploration and testing.
+A minimal standalone Stackato app for exploration and testing.
 
 This app does nothing but provide a container for inspection and testing.
 
