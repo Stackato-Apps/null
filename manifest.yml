@@ -1,5 +1,6 @@
 applications:
-- buildpack: https://github.com/atlassian/buildpack-null.git
-  name: null-app
+- name: null-app
+  buildpack: https://github.com/atlassian/buildpack-null.git
+  health-check-type: none
   no-route: true
   path: .
